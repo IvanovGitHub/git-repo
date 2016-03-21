@@ -1,3 +1,4 @@
 print("Hello, World!")
 print("Hello, everyboby!")
 Print("How do you do?")
+print("≈ще что-нибудь")
